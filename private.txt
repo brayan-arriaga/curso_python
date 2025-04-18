@@ -1,0 +1,4 @@
+estas son las credenciales para poder entrar al git o colavorar entre todos para crear raises 
+
+git remote add origin https://github.com/brayan-arriaga/curso_python.git
+git push -u origin main
