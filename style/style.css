@@ -1,11 +1,13 @@
 #body {
     margin: 0;
-    background-color: black;
+    background-color: #1E1E1E;
     color: white;
 }
 
 .titulo{
+    font-size: 64px;
     text-align: center;
+    font-style: initial;
 }
 
 .banner{
@@ -21,12 +23,14 @@
     text-align: center;
 }
 .boton{
-    
     text-align: center;
-    color: black;
+    color: white;
     border-radius: 25px;
-    background-color: white;
+    background-color: #9006d0;
+    padding: 12px 60px; /* Aumenta el tamaño interno */
+    font-size: 40px;     /* Tamaño del texto */
+}
 
-    padding: 12px 24px; /* Aumenta el tamaño interno */
-    font-size: 25px;     /* Tamaño del texto */
+.github{
+    border: 1000px;
 }
