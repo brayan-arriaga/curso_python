@@ -7,7 +7,8 @@
 .titulo{
     font-size: 64px;
     text-align: center;
-    font-style: initial;
+    /* font-style: initial; */
+    font-family: "Roboto Mono", monospace;
 }
 
 .banner{
@@ -21,6 +22,8 @@
 
 #boton_1{
     text-align: center;
+    margin: 50px;
+
 }
 .boton{
     text-align: center;
@@ -29,8 +32,18 @@
     background-color: #9006d0;
     padding: 12px 60px; /* Aumenta el tamaño interno */
     font-size: 40px;     /* Tamaño del texto */
+    text-decoration: none;
+    font-family: "Roboto Mono", monospace;
+    font-weight: 250;
+
 }
 
-.github{
-    border: 1000px;
+.iconos_sociales{
+    text-align: center;
+    margin: 30px;
 }
+
+.icono{
+    margin: 0 10px;
+}
+
