@@ -17,6 +17,13 @@
     max-width: 100%;
     display: block;
 }
+.banner2{
+    position: static;
+    text-align: center;
+    font-size: 50px;
+    padding: 80px;
+    background-color: #9006d0;
+}
 
 /* boton */
 
