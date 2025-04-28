@@ -37,8 +37,8 @@
     color: white;
     border-radius: 25px;
     background-color: #9006d0;
-    padding: 12px 60px; /* Aumenta el tamaño interno */
-    font-size: 40px;     /* Tamaño del texto */
+    padding: 10px 35px; /* Aumenta el tamaño interno */
+    font-size: 20px;     /* Tamaño del texto */
     text-decoration: none;
     font-family: "Roboto Mono", monospace;
     font-weight: 250;
@@ -53,4 +53,61 @@
 .icono{
     margin: 0 10px;
 }
+
+.boton_regresar{
+    margin: 0 50px;   
+}
+
+.texto{
+    text-align: center;
+    font-size: 30px;
+}
+
+.titulo_temario{
+    font-size: 50px;
+    margin: 0 50px;
+    /* text-align: center; */
+    /* font-style: initial; */
+    font-family: "Roboto Mono", monospace;
+}
+
+.suptitulos{
+    font-size: 25px;
+    margin: 0 70px;
+    /* text-align: center; */
+    /* font-style: initial; */
+    font-family: "Roboto Mono", monospace;
+}
+
+.boton_temario{
+    color: white;
+    border-radius: 25px;
+    background-color: #9006d0;
+    padding: 12px 60px;
+    font-family: "Roboto Mono", monospace;
+    font-weight: 100;
+    margin: 0 46px;
+    display: inline-block;
+    font-size: 20px;
+}
+
+.comenzar{
+    display: block;
+    color: white;
+    text-decoration: none;
+    text-align: center;   
+}
+
+.lista_inico{
+    font-family: "Roboto Mono", monospace;
+    font-size: 20px;
+    margin: 35px;
+}
+
+.lista{
+    font-family: "Roboto Mono", monospace;
+    font-size: 20px;
+    margin: 10px 80px;
+}
+
 
