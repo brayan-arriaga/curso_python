@@ -110,4 +110,15 @@
     margin: 10px 80px;
 }
 
-
+.Continuar,
+.regresar {
+    display: inline-block;
+    margin: 0 300px; /* 🔥 Solo 20px de separación entre botones */
+    padding: 10px 20px; /* Opcional: tamaño interno */
+    background-color: #9006d0;
+    color: white;
+    text-decoration: none;
+    border-radius: 25px;
+    font-family: "Roboto Mono", monospace;
+    font-weight: 100;
+}
