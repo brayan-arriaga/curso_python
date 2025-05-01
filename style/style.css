@@ -109,9 +109,41 @@
     font-size: 20px;
     margin: 10px 80px;
 }
+.punto{
+    font-family: "Roboto Mono", monospace;
+    font-size: 30px;
+    margin: 10px 80px;
+
+}
 
 .container{
     display: flex;
     justify-content: space-between; /* distribuye los botones a los extremos */
     padding: 20px;
+}
+
+.imagen{
+    text-align: center;
+}
+
+.imagen_formato{
+    border-radius: 25px;
+    width: 900px;
+    height: auto;
+}
+
+.boton_descargar{
+    color: white;
+    text-decoration: none;
+    border-radius: 25px;
+    background-color: #9006d0;
+    padding: 12px 60px;
+    font-family: "Roboto Mono", monospace;
+    font-weight: 100;
+    margin: 0 46px;
+    font-size: 20px;
+
+}
+.position{
+    text-align: center;
 }
